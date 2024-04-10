@@ -1,0 +1,16 @@
+.white-icon svg {
+    fill: #ffffff !important; 
+  }
+
+  .ant-menu-item-selected, .ant-menu-item-selected:hover {
+    background-color: #539BBB !important;
+  }
+
+  .ant-layout {
+    width:100%; /* Adjust the width as per your requirement */
+}
+
+.ant-layout-sider {
+    width: 100%; /* Adjust the width of the sider */
+}
+  
